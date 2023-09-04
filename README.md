@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**anilyavas/anilyavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Frontend Developer from Turkey.
 
-Here are some ideas to get you started:
+### Coding is my passion and i am focused on Web Development and Mobile App Development features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am currently working on React Native for mobile application development. 
+
+### I am working on Web Development.
+
+### I am improving myself day by day.
+
+### Here is some of my skills from my skill set.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,babel,express,nodejs,firebase,figma,git,java,react,mongodb,postman,redux)](https://skillicons.dev)
+
+
