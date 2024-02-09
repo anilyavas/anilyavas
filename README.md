@@ -2,11 +2,9 @@
 
 ### I am Frontend Developer from Turkey.
 
-### Coding is my passion and i am focused on Web Development and Mobile App Development features.
+### Coding is my passion and i am focused on Web Development and Mobile App Development.
 
 ### I am currently working on React Native for mobile application development. 
-
-### I am working on Web Development.
 
 ### I am improving myself day by day.
 
