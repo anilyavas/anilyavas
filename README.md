@@ -10,7 +10,7 @@
 
 ### Here is some of my skills from my skill set.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,firebase,git,java,react,mongodb,redux,graphql,ts,apollo,python,langchain)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,firebase,git,java,react,mongodb,redux,graphql,ts,apollo,python)](https://skillicons.dev)
 
 
 ### My LinkedIn Account: https://www.linkedin.com/in/anıl-yavaş-86aa7220a/
