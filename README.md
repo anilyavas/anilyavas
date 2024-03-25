@@ -16,10 +16,10 @@
 ### My LinkedIn Account: https://www.linkedin.com/in/anıl-yavaş-86aa7220a/
 ### My Developer Instagram Account: https://www.instagram.com/developer.anil/
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilyavas&show_icons=true&locale=en&layout=compact" alt="anilyavas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilyavas&show_icons=true&locale=en&layout=compact&theme=transparent" alt="anilyavas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilyavas&show_icons=true&locale=en&theme=radical" alt="anilyavas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilyavas&show_icons=true&locale=en&theme=transparent" alt="anilyavas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilyavas&" alt="anilyavas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilyavas&theme=transparent" alt="anilyavas" /></p>
 </div>
 
