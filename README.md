@@ -12,9 +12,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,firebase,git,java,react,mongodb,redux,graphql,ts,apollo,swift)](https://skillicons.dev)
 
+# Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anıl-yavaş) 
 
-### My LinkedIn Account: https://www.linkedin.com/in/anıl-yavaş-86aa7220a/
-### My Developer Instagram Account: https://www.instagram.com/developer.anil/
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilyavas&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="anilyavas" /></p>
 
