@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native for Cross Platform Mobile Development.<br>👯 I’m open for new oppurtunities as mobile developer positions for working.<br>🤝 I’m looking for help with my EV Charging App for spotting stations with custom API.<br>🌱 I’m currently learning Langchain while using React Native.<br>
+🔭 I’m currently working on my Fast 1 Application with using React Native for Cross Platform Mobile Development.<br>👯 I’m open for new oppurtunities as mobile developer positions for working.<br>🤝 I’m looking for help with my EV Charging App for spotting stations with custom API.<br>🌱 I’m currently learning Langchain while using React Native.<br>
    
    
 ## 🌐 Socials:
