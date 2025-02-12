@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Mobile Developer with more than 2 years of experience with React Native. I'm currently working on  Fast 1 as Founder and Developer.<br>👯 I’m open for new oppurtunities as mobile developer positions for remote working.<br>🌱 I’m currently learning Langchain while using React Native Expo for AI integration to my apps.<br> 
+🔭 I’m a Mobile Developer with more than 2 years of experience with React Native. I'm currently working on  Fast 1 Labs as Founder and Developer.<br>👯 I’m open for new oppurtunities as mobile developer positions for remote working.<br>🌱 I’m currently building mobile applications with AI integration.<br> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anilyvas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilyavas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anil.yavas)  
