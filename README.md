@@ -5,39 +5,54 @@
 
 ---
 
-### 📌 About Me
-- 🔭 I have **2+ years of experience** in **React Native** development.
-- 🏎️ Currently working on **Fast 1 Labs** as **Founder & Developer**.
-- 🤖 Exploring **AI-powered mobile applications**.
-- 💼 Open to **remote opportunities** as a mobile developer.
+<h3 align="center">📌 About Me</h3>
+<p align="center">
+  🔭 I have <strong>2+ years of experience</strong> in <strong>React Native</strong> development.<br>
+  🏎️ Currently working on <strong>Fast 1 Labs</strong> as <strong>Founder & Developer</strong>.<br>
+  🤖 Exploring <strong>AI-powered mobile applications</strong>.<br>
+  💼 Open to <strong>remote opportunities</strong> as a mobile developer.
+</p>
 
 ---
 
-### 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/anilyavas)  
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@anil.yavas)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/anilyvas)
+<h3 align="center">🌎 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/anilyavas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://medium.com/@anil.yavas">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/anilyvas">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-### 🛠 Tech Stack  
-#### **Frontend & Mobile**
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge)
+<h3 align="center">🛠 Tech Stack</h3>
 
-#### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+<h4 align="center">Frontend & Mobile</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" />
+</p>
+
+<h4 align="center">Backend & Databases</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-### 📊 GitHub Stats  
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anilyavas&theme=github_dark&hide_border=true&show_icons=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilyavas&theme=github-dark-blue&hide_border=true" width="48%" />
@@ -49,5 +64,7 @@
 
 ---
 
-### 📩 Let's Connect  
-📧 **Email:** anil.yavas99@gmail.com 
+<h3 align="center">📩 Let's Connect</h3>
+<p align="center">
+  📧 <strong>Email:</strong> anil.yavas99@gmail.com
+</p>
