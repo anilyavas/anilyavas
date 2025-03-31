@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anıl Yavaş 👋</h1>
 <p align="center">
   🚀 Mobile Developer | Founder @ Fast 1 Labs | React Native Enthusiast
-</p>
+</p> 
    
 ---
 
