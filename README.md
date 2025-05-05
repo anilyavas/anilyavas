@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anıl Yavaş 👋</h1>
 <p align="center">
-  🚀 Mobile Developer | Founder @ Fast 1 Mobile App | React Native Enthusiast
+  🚀 Mobile Developer | Founder @Softwave-Technologies | React Native Enthusiast
 </p>
   <p align="center">🚀 Download Fast 1 Now on the App Store!</p>
   <p align="center"><a href="https://lnkd.in/dqKQtetC" target="_blank">👉 https://lnkd.in/dqKQtetC</a></p>
@@ -10,7 +10,7 @@
 <h3 align="center">📌 About Me</h3>
 <p align="center">
   🔭 I have <strong>2+ years of experience</strong> in <strong>React Native</strong> development.<br>
-  🏎️ Currently working on <strong>Fast 1 Labs</strong> as <strong>Founder & Developer</strong>.<br>
+  🏎️ Currently working on <strong>Softwave Technologies</strong> as <strong>Founder & Developer</strong>.<br>
   🤖 Exploring <strong>AI-powered mobile applications</strong>.<br>
   💼 Open to <strong>remote opportunities</strong> as a mobile developer.
 </p>
