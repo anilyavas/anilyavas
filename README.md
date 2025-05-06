@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anıl Yavaş 👋</h1>
 <p align="center">
-  🚀 Mobile Developer | Founder @Softwave-Technologies | React Native Enthusiast
+  🚀 Mobile Developer | Founder @Softwave-Technology | React Native Enthusiast
 </p>
   <p align="center">🚀 Download Fast 1 Now on the App Store!</p>
   <p align="center"><a href="https://lnkd.in/dqKQtetC" target="_blank">👉 https://lnkd.in/dqKQtetC</a></p>
