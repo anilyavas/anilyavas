@@ -2,7 +2,7 @@
 <p align="center">
   🚀 Mobile Developer | Founder @ Softwave Technology<br>
   ❤️ Passionate about building performant & beautiful mobile apps with React Native
-</p>
+</p> 
 
 <p align="center">
   <a href="https://lnkd.in/dqKQtetC" target="_blank">
