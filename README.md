@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Anıl Yavaş</h1>  
+<h1 align="center">Hi there 👋 I'm Anıl Yavaş</h1>   
 <p align="center">
   🚀 Mobile Developer | Founder @ Softwave Technology<br>
   ❤️ Passionate about building performant & beautiful mobile apps with React Native
