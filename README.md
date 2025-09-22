@@ -1,5 +1,5 @@
 # Hi there, I'm Anıl Yavaş
-
+ 
 I'm a **Mobile Developer & Founder at Softwave Technology** with a passion for building high-quality, performance-driven, and visually appealing mobile applications. With over 2 years of experience in **React Native**, **TypeScript**, and **JavaScript**, I focus on delivering apps that combine intuitive design with strong technical foundations. I enjoy working on innovative projects, exploring AI integrations, and optimizing user experiences through modern development practices. Whether it's building from scratch or improving existing solutions, my goal is to craft applications that make an impact.
 
 ## 🌐 Socials:
